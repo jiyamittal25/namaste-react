@@ -67,8 +67,6 @@ const root=ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);
 
 
-
-
 /* <div id="parent">
     <div id="child1">
         <h1></h1>
@@ -79,6 +77,7 @@ root.render(parent);
         <h2></h2>
     </div>
 </div>
+
 ReactElement(object)=>HTML(Browser understand)
 
 */
