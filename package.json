@@ -1,0 +1,19 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Namaste React",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiyamittal25/namaste-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiyamittal25/namaste-react/issues"
+  },
+  "homepage": "https://github.com/jiyamittal25/namaste-react#readme"
+}

@@ -35,12 +35,12 @@ const parent=React.createElement(
                 React.createElement(
                     "h1",
                     {},
-                    "I am an h1 tag of child1 tag"
+                    "I'm an h1 tag of child1 tag"
                 ),
                 React.createElement(
                     "h2",
                     {},
-                    "I am an h2 tag of child1 tag"
+                    "I'm an h2 tag of child1 tag"
                 )
             ]
         ),
@@ -51,12 +51,12 @@ const parent=React.createElement(
                 React.createElement(
                     "h1",
                     {},
-                    "I am an h1 tag of child2 tag"
+                    "I'm an h1 tag of child2 tag"
                 ),
                 React.createElement(
                     "h2",
                     {},
-                    "I am an h2 tag of child2 tag"
+                    "I'm an h2 tag of child2 tag"
                 )
             ]
         )
