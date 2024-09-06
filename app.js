@@ -95,12 +95,12 @@ import { jsx } from "react/jsx-runtime";
 // console.log(heading);
 
 // JSX- HTML-like or XML-like syntax ,  It transpiled(converted to browser) before it reaches the JS - PARCEL - Babel
-// JSX => React.createElement => ReactElement-JS Oject => HTMLElement(render)
+// JSX => React.createElement => ReactElement-JS Oject => HTMLElement(render)  :->  Job of babel
 const jsxHeading= <h1 id="heading">Namaste React using JSX</h1>
 console.log(jsxHeading);
 
 const root=ReactDOM.createRoot(document.getElementById("root"));
-root.render(heading);
+// root.render(heading);
 root.render(jsxHeading);
 
 
