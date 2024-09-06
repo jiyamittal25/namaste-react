@@ -87,7 +87,6 @@
 
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { jsx } from "react/jsx-runtime";
 
 // React.createElement => ReactElement-JS Object => HTMLElement(render)
 
