@@ -7,11 +7,11 @@
     <link rel="stylesheet" href="./index.css">
 </head>
 <body>
-    <h1>I am above Root</h1>
+    <!-- <h1>I am above Root</h1> -->
     <div id="root">
-        <h1>hello</h1>
+        <h1>Not rendered</h1>
     </div>
-    <h1>I am below Root</h1>
+    <!-- <h1>I am below Root</h1> -->
     <!-- <script>
         const heading=document.createElement("h1");
         heading.innerHTML="Hello World From Javascript!";
@@ -19,9 +19,9 @@
         const root=document.getElementById("root");
         root.appendChild(heading); 
     </script> -->
-    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
-    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
-    <script src="./app.js"></script>
+    <!-- <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script> -->
+    <script type="module" src="./app.js"></script>
     <!-- <script>
         const heading=React.createElement("h1",{},"Hello World from React!");
         const root=ReactDOM.createRoot(document.getElementById("root"));
