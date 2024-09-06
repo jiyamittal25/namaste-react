@@ -94,7 +94,7 @@ import { jsx } from "react/jsx-runtime";
 // const heading= React.createElement("h1",{id:"heading"},"Namaste React");
 // console.log(heading);
 
-// JSX- HTML-like or XML-like syntax ,  It transpiled(converted to browser TF5F6DED4dde4p-----) before it reaches the JS - PARCEL - Babel
+// JSX- HTML-like or XML-like syntax ,  It transpiled(converted to browser) before it reaches the JS - PARCEL - Babel
 // JSX => React.createElement => ReactElement-JS Oject => HTMLElement(render)
 const jsxHeading= <h1 id="heading">Namaste React using JSX</h1>
 console.log(jsxHeading);
